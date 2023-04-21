@@ -17,5 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Iowa, USA","country":"United States","image":"unitedstates","ip":"35.232.91.235","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Tokyo, Japan","country":"Japan","image":"japan","ip":"182.169.230.156","active":"true","signal":"a"},
   ]
 }
